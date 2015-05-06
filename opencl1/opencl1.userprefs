@@ -1,4 +1,4 @@
-﻿<Properties>
+﻿<Properties StartupItem="ConsoleOpenCLDotNet/ConsoleOpenCLDotNet.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplication1/ClooClass.cs">
     <Files>
